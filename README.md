@@ -69,7 +69,10 @@
 
 
 # 작업 분할 구조 (WBS)
-- 2차 프로젝트 수행을 위한 WBS 작성
+- 1차 프로젝트 수행을 위한 WBS 작성
+<img width="915" height="809" alt="1" src="https://github.com/user-attachments/assets/cd224afe-3767-4248-a3d4-7833b88e96c3" />
+<img width="924" height="576" alt="2" src="https://github.com/user-attachments/assets/7da621e9-8c30-46f6-8095-226642c7d88d" />
+
 
 ## 1. 단계별 작업 구성
 ### 1. 기획
