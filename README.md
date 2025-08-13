@@ -23,7 +23,7 @@
 | 요구사항 도출 및 WBS 작성   | 2025-08-13 | 2025-08-14 | 1       |
 | 기획서 및 발표 자료 제작             | 2025-08-14 | 2025-08-18 | 4      |
 | 최종 피드백 및 프로젝트 발표  | 2025-08-17 | 2025-08-18 | 1       |
-<img width="6004" height="3232" alt="image" src="https://github.com/user-attachments/assets/72ee33e9-b765-468b-93db-52c2655e3dea" />
+<img width="3004" height="1232" alt="image" src="https://github.com/user-attachments/assets/72ee33e9-b765-468b-93db-52c2655e3dea" />
 
 
  
