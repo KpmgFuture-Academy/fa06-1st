@@ -73,7 +73,8 @@
 - 1차 프로젝트 수행을 위한 WBS 작성
 
 ### 첨부한 얼마고_WBS.html 다운로드하여 참조
-<img width="105" height="44" alt="image" src="https://github.com/user-attachments/assets/4af7e042-cf65-4475-b154-ff887319a332" />
+<img width="105" height="44" alt="image" src="https://github.com/user-attachments/assets/61eb1122-15c1-49ed-9f82-ee23ff9d0a1a" />
+
 
 [얼마고_WBS.html](https://github.com/KpmgFuture-Academy/fa06-1st/blob/1d22b2b5897d2c16b0901a82e6ca3e16e1b7ebfa/%EC%96%BC%EB%A7%88%EA%B3%A0_WBS.html)
 
