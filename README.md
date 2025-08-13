@@ -18,9 +18,7 @@
 | 요구사항 도출 및 WBS 작성   | 2025-08-13 | 2025-08-14 | 1       |
 | 기획서 및 발표 자료 제작             | 2025-08-14 | 2025-08-18 | 4      |
 | 최종 피드백 및 프로젝트 발표  | 2025-08-17 | 2025-08-18 | 1       |
-<img width="514" height="265" alt="image" src="https://github.com/user-attachments/assets/ad197367-f1c6-44b6-8315-57e4cb0c5c89" />
-
-
+<img width="523" height="260" alt="image" src="https://github.com/user-attachments/assets/6f2e0cbb-e067-4f8a-9323-c3060e28735b" />
 
 ## 3. 프로젝트 주제
 **[AI 기반 재래시장 내 품목 적정가 예측 서비스]**
