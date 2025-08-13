@@ -70,6 +70,7 @@
 <img width="7572" height="3476" alt="1차 프로젝트" src="https://github.com/user-attachments/assets/142ab81c-b10c-4819-be25-6308e81a2973" />
 - 데이터 기반 시계열 예측을 통한 **품목 적정가 산정** 사용자 참여 오픈소스 생태계
 
+
 # 작업 분할 구조 (WBS)
 - 2차 프로젝트 수행을 위한 WBS 작성
 
