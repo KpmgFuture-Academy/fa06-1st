@@ -1,17 +1,13 @@
-# Tem_fa00-1st-NAME
-- KPMG Future Academy 첫 번째 프로젝트 템플릿 레포지토리입니다.
+# fa06-1st-
+- KPMG Future Academy 6기 1조 1차 프로젝트 기획안입니다.
 
 -------------------
 # 프로젝트 기획서
 
 ## 1. 프로젝트 개요
-- 프로젝트 주제: **[주제]**
-- 목표: **AI 활용 서비스 기획 및 설계**
-  
-### 시각적 자료
-![프로젝트 기획서 다이어그램] ![Uploading image.png…](https://github.com/user-attachments/assets/06d3c48f-e8ff-46b4-afd2-2206c57a7099)
-
-
+- **프로젝트 기간**: 2025-08-11 ~ 2024-08-18
+- **팀 명**: 얼마고 (Eolma-Go)
+- **참여 인원**: 송유선, 유병욱, 임은아
 
 ## 2. 프로젝트 일정 (예시 Gantt 차트)
 ![프로젝트 일정]
@@ -26,8 +22,17 @@
 <img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/db46ebbe-a232-441e-b5ba-2eee8b06f3e0" />
 
 
+## 3. 프로젝트 주제
+**[AI 기반 재래시장 내 품목 적정가 예측 서비스]**
+- 목표: **AX/DX를 통한 기존 문제 해결**
+- 
 
+## 4. 문제 정의 및 목적
 
+## 5. 핵심 타겟
+<img width="7572" height="3476" alt="1차 프로젝트" src="https://github.com/user-attachments/assets/142ab81c-b10c-4819-be25-6308e81a2973" />
+
+## 6. 서비스 주요 기능
  
   --------------------------
 
