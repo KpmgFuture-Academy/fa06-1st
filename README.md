@@ -1,4 +1,4 @@
-# fa06-1st-
+# fa06-1st-Ulmago
 - KPMG Future Academy 6기 1조 1차 프로젝트 기획안입니다.
 
 -------------------
@@ -6,7 +6,7 @@
 
 ## 1. 프로젝트 개요
 - **프로젝트 기간**: 2025-08-11 ~ 2024-08-18
-- **팀 명**: 얼마고 (Eolma-Go)
+- **팀 명**: 얼마고 (Ulma-Go)
 - **참여 인원**: 송유선, 유병욱, 임은아
 
 ## 2. 프로젝트 일정
@@ -73,7 +73,7 @@
 - 1차 프로젝트 수행을 위한 WBS 작성
 
 ### 첨부한 얼마고_WBS.html 다운로드하여 참조
-[얼마고_WBS.html](https://github.com/KpmgFuture-Academy/fa06-1st/blob/1d22b2b5897d2c16b0901a82e6ca3e16e1b7ebfa/%EC%96%BC%EB%A7%88%EA%B3%A0_WBS.html)
+[얼마고_WBS.html](https://github.com/KpmgFuture-Academy/fa06-1st-ulmago/blob/1d22b2b5897d2c16b0901a82e6ca3e16e1b7ebfa/%EC%96%BC%EB%A7%88%EA%B3%A0_WBS.html)
 
 <img width="698" height="430" alt="1차 프로젝트 (7)" src="https://github.com/user-attachments/assets/72e758ac-3817-4e59-81e7-2778afc69b36" />
 
