@@ -175,4 +175,6 @@
     - **해결 방안:**
         - **리뷰 모니터링:** 부적절한 단어를 감지하는 필터를 적용하고, 사용자 신고(flagging) 기능을 도입하여 커뮤니티가 자정작용을 할 수 있도록 유도합니다.
 
+## UX 서비스 흐름도
+<img width="8491" height="4561" alt="1차 프로젝트 (8)" src="https://github.com/user-attachments/assets/4327cd65-f021-4475-bd73-24c4ff30ae13" />
 
