@@ -19,7 +19,7 @@
 | 요구사항 도출 및 WBS 작성   | 2025-08-13 | 2025-08-14 | 1       |
 | 기획서 및 발표 자료 제작             | 2025-08-14 | 2025-08-18 | 4      |
 | 최종 피드백 및 프로젝트 발표  | 2025-08-17 | 2025-08-18 | 1       |
-<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/db46ebbe-a232-441e-b5ba-2eee8b06f3e0" />
+<img width="2961" height="1712" alt="1차 프로젝트 (1)" src="https://github.com/user-attachments/assets/a0fce72f-1ec2-4cc8-b105-70a74bb536e8" />
 
 
 ## 3. 프로젝트 주제
@@ -27,12 +27,16 @@
 - 목표: **AX/DX를 통한 기존 문제 해결**
 - 
 
+
 ## 4. 문제 정의 및 목적
+
 
 ## 5. 핵심 타겟
 <img width="7572" height="3476" alt="1차 프로젝트" src="https://github.com/user-attachments/assets/142ab81c-b10c-4819-be25-6308e81a2973" />
 
+
 ## 6. 서비스 주요 기능
+
  
   --------------------------
 
