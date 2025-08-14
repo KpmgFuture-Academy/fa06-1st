@@ -79,7 +79,8 @@
 ### 첨부한 얼마고_WBS.html 다운로드하여 참조
 [얼마고_WBS.html](https://github.com/KpmgFuture-Academy/fa06-1st-ulmago/blob/1d22b2b5897d2c16b0901a82e6ca3e16e1b7ebfa/%EC%96%BC%EB%A7%88%EA%B3%A0_WBS.html)
 
-<img width="698" height="430" alt="1차 프로젝트 (7)" src="https://github.com/user-attachments/assets/72e758ac-3817-4e59-81e7-2778afc69b36" />
+<img width="854" height="945" alt="image" src="https://github.com/user-attachments/assets/58f75afa-596b-4aec-a5dd-d1bf26136038" />
+
 
   ------------------------------
 
