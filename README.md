@@ -155,7 +155,7 @@
 
 | 구분 | 기술 | 목적 |
 | --- | --- | --- |
-| **프론트엔드 (Client)** | React Native, Expo | iOS/Android 크로스플랫폼 앱 개발 |
+| **프론트엔드 (Client)** | Streamlit | iOS/Android 크로스플랫폼 앱, 웹 개발 |
 |  | Google Maps API / Naver Maps API | GPS 기반 정보 제공 및 길찾기 기능 구현 |
 | **백엔드 (Server)** | Python, Django / Flask | 안정적인 API 서버 및 비즈니스 로직 개발 |
 | **데이터 수집** | Python, Selenium, BeautifulSoup, Requests | 웹 크롤링 및 API 연동 |
