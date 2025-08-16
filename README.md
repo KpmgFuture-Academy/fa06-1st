@@ -21,7 +21,7 @@
 <img width="523" height="260" alt="image" src="https://github.com/user-attachments/assets/6f2e0cbb-e067-4f8a-9323-c3060e28735b" />
 
 ## 3. 프로젝트 주제
-**[AI 기반 재래시장 내 품목 적정가 예측 서비스]**
+**[AI 기반 전통시장 통합 가이드 및 활성화 플랫폼]**
 - 목표: **AX/DX를 통한 전통시장 시세 및 종합 정보 플랫폼 구축**
 
 ## 4. 문제 정의 및 목적
