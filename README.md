@@ -68,7 +68,6 @@
   
 ## 5. 핵심 타겟 및 주요 기능
 <img width="14520" height="6952" alt="image" src="https://github.com/user-attachments/assets/5a849e43-f705-48d7-a59a-58553c613186" />
-" />
 -> 데이터 기반 시계열 예측을 통한 **품목 적정가 산정** 사용자 참여 오픈소스 생태계
 
 
@@ -180,6 +179,6 @@
         - **리뷰 모니터링:** 부적절한 단어를 감지하는 필터를 적용하고, 사용자 신고(flagging) 기능을 도입하여 커뮤니티가 자정작용을 할 수 있도록 유도합니다.
 
 ## UX 서비스 흐름도
-<img width="8491" height="4740" alt="1차 프로젝트 (9)" src="[https://github.com/user-attachments/assets/84046691-cdee-4508-9ef5-fb2d3eea7b57](https://github.com/KpmgFuture-Academy/fa06-1st-Ulmago/blob/main/%ED%94%8C%EB%9E%AB%ED%8F%BC%20UX%20%ED%94%8C%EB%A1%9C%EC%9A%B0.png?raw=true)" />
+<img width="8491" height="4740" alt="1차 프로젝트 (9)" src= />
 
 
