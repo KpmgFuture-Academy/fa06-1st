@@ -67,7 +67,7 @@
 
   
 ## 5. 핵심 타겟 및 주요 기능
-<img width="7260" height="3476" alt="1차 프로젝트 (4)" src="https://github.com/user-attachments/assets/7553320c-19da-4bc7-91d9-7131832e8a77" />
+<img width="7260" height="3476" alt="1차 프로젝트 (4)" src="[https://github.com/user-attachments/assets/7553320c-19da-4bc7-91d9-7131832e8a77](https://github.com/KpmgFuture-Academy/fa06-1st-Ulmago/blob/main/1%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20(1).png?raw=true)" />
 
 
 -> 데이터 기반 시계열 예측을 통한 **품목 적정가 산정** 사용자 참여 오픈소스 생태계
