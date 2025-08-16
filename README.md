@@ -67,7 +67,7 @@
 
   
 ## 5. 핵심 타겟 및 주요 기능
-<img width="14520" height="6952" alt="image" src="https://github.com/user-attachments/assets/5a849e43-f705-48d7-a59a-58553c613186" />
+<img width="14520" height="6952" alt="image" src="https://github.com/user-attachments/assets/5a849e43-f705-48d7-a59a-58553c613186"/>
 -> 데이터 기반 시계열 예측을 통한 **품목 적정가 산정** 사용자 참여 오픈소스 생태계
 
 
