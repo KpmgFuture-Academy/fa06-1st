@@ -6,7 +6,7 @@
 
 ## 1. 프로젝트 개요
 - **프로젝트 기간**: 2025-08-11 ~ 2025-08-18
-- **팀 명**: 얼마고 (Ulma-Go)
+- **팀 명**: 얼마고 (Ulmago)
 - **참여 인원**: 송유선, 유병욱, 임은아
 
 ## 2. 프로젝트 일정
@@ -146,11 +146,11 @@
 | 구분 | 기술 | 목적 |
 | --- | --- | --- |
 | **프론트엔드 (Client)** | Streamlit | 프로토타입 웹 개발 |
-|  | Google Maps JS API / Google Places API | Naver Maps API | GPS 기반 정보 제공 및 길찾기 기능 구현 |
+|  | Google Maps JS API / Google Places API / Naver Maps API | GPS 기반 정보 제공 및 길찾기 기능 구현 |
 | **백엔드 (Server)** | Python, FastAPI | 안정적인 API 서버 및 비즈니스 로직 개발 |
 | **데이터 수집** | Python, Selenium, BeautifulSoup, Requests | 웹 크롤링 및 API 연동 |
 | **데이터 처리/분석** | Pandas, NumPy | 수집된 데이터의 효율적인 정제, 통합, 가공 |
-| **데이터베이스** | PostgreSQL (+PostGIS) | 데이터의 안정적 저장 및 효율적인 위치 기반 쿼리 처리 |
+| **데이터베이스** | MySQL | 데이터의 안정적 저장 및 효율적인 위치 기반 쿼리 처리 |
 | **인프라/배포** | AWS / GCP, Docker | 확장성 있고 유연한 서비스 배포 및 운영 |
 
 ### **4. 예상 문제 및 해결 방안**
